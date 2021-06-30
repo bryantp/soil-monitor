@@ -1,6 +1,6 @@
 from flask import Flask
-from .services.soil import SoilService
-from .services.health import HealthService
+from services.soil import SoilService
+from services.health import HealthService
 
 app = Flask(__name__)
 

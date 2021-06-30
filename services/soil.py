@@ -1,4 +1,4 @@
-from ..hardware.soil_monitor import SoilMonitor
+from hardware.soil_monitor import SoilMonitor
 
 soil_monitor = SoilMonitor()
 
