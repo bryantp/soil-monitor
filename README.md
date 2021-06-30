@@ -29,3 +29,5 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+[![GitHub Super-Linter](https://github.com/bryantp/soil-monitor/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
