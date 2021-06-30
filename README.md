@@ -1,9 +1,9 @@
 
 # Soil Monitor
 
-Soil Monitor is a Flask server to help monitor the soil conditions for plants 
+Soil Monitor is a Flask server to help monitor the soil conditions for plants.
 
-## Installation
+## Dependencies
 
 - Python 3
 - Pip
