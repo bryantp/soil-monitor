@@ -1,5 +1,4 @@
 from flask import Flask
-#from .hardware.soil_monitor import SoilMonitor
 from .services.soil import SoilService
 from .services.health import HealthService
 
